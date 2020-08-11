@@ -1,2 +1,5 @@
+# Video-Games-Sales
+Data Visualization
 
-Data Visualization Practice
+
+https://www.kaggle.com/gittimemurluk/exploratory-data-analysis-of-game-sales
